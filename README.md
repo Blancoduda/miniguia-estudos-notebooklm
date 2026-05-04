@@ -12,6 +12,7 @@ Pandas: biblioteca para manipulação e análise de dados em formato de tabela
 EDA (Exploratory Data Analysis): processo de exploração inicial dos dados
 DataFrame: estrutura de dados tabular utilizada no pandas
 Visualização de Dados: representação gráfica das informações
+
 🧠 Prompts Reutilizáveis
 Explique [conceito] de forma simples e com exemplo prático em Python
 Mostre um passo a passo para realizar [tarefa de análise de dados] usando pandas
