@@ -1,44 +1,20 @@
-📘 Contexto e Objetivos
+📘 Miniguia de Estudo
 
-Este notebook tem como tema o aprendizado de Python aplicado à Análise de Dados, com foco no desenvolvimento das habilidades essenciais para atuação como analista de dados.
+📊 Resumo do Conteúdo
 
-O objetivo principal é consolidar conhecimentos em manipulação de dados, análise exploratória (EDA) e uso de bibliotecas como pandas, conectando teoria com aplicações práticas do dia a dia.
+Python é uma das principais linguagens para análise de dados, permitindo a manipulação, análise e visualização de grandes volumes de informação. Bibliotecas como pandas facilitam o tratamento de dados, enquanto ferramentas de visualização ajudam na interpretação dos resultados.
 
----
-📚 Curadoria de Fontes
+A análise exploratória de dados (EDA) é uma etapa fundamental, permitindo entender padrões, identificar inconsistências e gerar insights iniciais.
 
-As seguintes fontes foram selecionadas para embasar os estudos:
-
-- https://www.youtube.com/watch?v=zOWGoWZB9_4  
-- https://www.dio.me/articles/estrategias-avancadas-para-analise-de-dados-com-pandas  
-- https://www.python.org/  
-
----
-
-🧠 Engenharia de Prompts e “Cicatrizes”
-
-Durante o uso do NotebookLM, foram testadas diferentes abordagens de prompts para extrair respostas mais completas e úteis.
-
-🔹 Exemplos de prompts utilizados
-
-- “Explique o que é pandas e como utilizá-lo na análise de dados”  
-- “Quais são as principais etapas de uma análise exploratória de dados?”  
-- “Como aplicar Python em cenários reais de análise de dados?”  
-
-🔹 Ajustes realizados nos prompts
-
-- Tornar os prompts mais específicos (ex: pedir exemplos práticos)  
-- Solicitar respostas estruturadas (passo a passo)  
-- Pedir simplificação da linguagem quando necessário  
-
-🔹 Dificuldades encontradas
-
-- Respostas muito genéricas quando os prompts eram vagos  
-- Necessidade de refinar perguntas para obter exemplos aplicáveis  
-- Algumas respostas sem contexto prático, exigindo reestruturação do prompt  
-
-🔹 Aprendizados
-
-- A qualidade da resposta depende diretamente da clareza do prompt  
-- Prompts específicos e orientados a contexto geram resultados muito melhores  
-- Iterar (testar e ajustar) faz parte do processo  
+📖 Glossário
+Python: linguagem de programação amplamente utilizada em análise de dados
+Pandas: biblioteca para manipulação e análise de dados em formato de tabela
+EDA (Exploratory Data Analysis): processo de exploração inicial dos dados
+DataFrame: estrutura de dados tabular utilizada no pandas
+Visualização de Dados: representação gráfica das informações
+🧠 Prompts Reutilizáveis
+Explique [conceito] de forma simples e com exemplo prático em Python
+Mostre um passo a passo para realizar [tarefa de análise de dados] usando pandas
+Quais são as melhores práticas para análise exploratória de dados?
+Gere um exemplo de código para manipulação de dados em um DataFrame
+Explique este código e sugira melhorias: [colar código]
